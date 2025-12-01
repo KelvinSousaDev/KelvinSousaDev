@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olá, sou o Kelvin! 👋
+### Analista de Dados em Transição | Apaixonado por Python e SQL
 
-<!--
-**KelvinSousaDev/KelvinSousaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um instrutor de tecnologia migrando para Engenharia de Dados. Foco em construir pipelines ETL, automação e dashboards que resolvem problemas reais.
 
-Here are some ideas to get you started:
+🛠 **Tech Stack:**
+* **Linguagens:** Python, SQL
+* **Dados:** Pandas, NumPy, SQLite, PostgreSQL (Neon)
+* **Cloud & DevOps:** GitHub Actions, CI/CD
+* **Visualização:** Streamlit
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Projetos em Destaque:**
+* [**Clima Tracker:**](https://github.com/KelvinSousaDev/Projeto-Clima-SQL) Pipeline de dados 100% em nuvem com API e PostgreSQL.
+* [**ETL de Vendas:**](https://github.com/KelvinSousaDev/Projeto-ETL-Vendas) Tratamento de dados sujos e deduplicação automática.
+* [**Controle Financeiro:**](https://github.com/KelvinSousaDev/MenuDeGastos) App web com banco de dados e cotação de moedas em tempo real.
+
+📫 **Contato:** [LinkedIn](www.linkedin.com/in/okelvinsousa)
