@@ -1,17 +1,32 @@
-# Olá, sou o Kelvin! 👋
-### Analista de Dados em Transição | Apaixonado por Python e SQL
+# Olá, sou o Kelvin! 🚀
+### Software Engineer & Data Specialist
 
-Sou um instrutor de tecnologia migrando para Engenharia de Dados. Foco em construir pipelines ETL, automação e dashboards que resolvem problemas reais.
+Engenheiro focado em criar **Ecossistemas Inteligentes**. Combino a robustez da Engenharia de Dados com a inovação da Inteligência Artificial Generativa para automatizar processos e gerar insights de valor.
 
-🛠 **Tech Stack:**
-* **Linguagens:** Python, SQL
-* **Dados:** Pandas, NumPy, SQLite, PostgreSQL (Neon)
-* **Cloud & DevOps:** GitHub Actions, CI/CD
-* **Visualização:** Streamlit
+Atualmente desenvolvendo agentes autônomos que veem, ouvem e analisam dados de mercado em tempo real.
 
-🚀 **Projetos em Destaque:**
-* [**Clima Tracker:**](https://github.com/KelvinSousaDev/Projeto-Clima-SQL) Pipeline de dados 100% em nuvem com API e PostgreSQL.
-* [**ETL de Vendas:**](https://github.com/KelvinSousaDev/Projeto-ETL-Vendas) Tratamento de dados sujos e deduplicação automática.
-* [**Controle Financeiro:**](https://github.com/KelvinSousaDev/MenuDeGastos) App web com banco de dados e cotação de moedas em tempo real.
+---
 
-📫 **Contato:** [LinkedIn](www.linkedin.com/in/okelvinsousa)
+### 🛠️ Tech Stack & Arsenal
+
+* **Core:** Python, SQL (PostgreSQL/SQLite).
+* **AI Engineering:** LangChain, Ollama (Local LLMs), Computer Vision (LLaVA), Speech Processing (Whisper).
+* **Data Ops:** ETL Pipelines, Pandas, NumPy, Cloud Databases (Neon Tech).
+* **DevOps & Tools:** Git, Docker, Automation Scripts.
+
+---
+
+### 💎 Projetos em Destaque
+
+* **[[🦇 E.D.I.T.H. - AI Assistant]](https://github.com/KelvinSousaDev/EDITH-AI-Assistant)**
+    * *A "Joia da Coroa".* Uma assistente virtual que utiliza **Visão Computacional** para ler minha tela, conecta-se a um banco **PostgreSQL na nuvem** para monitorar preços e usa **LLMs locais** para tomar decisões.
+    
+* **[[📉 Vigilante de Preços]](https://github.com/KelvinSousaDev/vigilante-de-precos)**
+    * Pipeline de extração de dados (Scraping) conectado a banco de dados em nuvem para análise histórica de preços de e-commerce.
+
+* **[[☁️ Clima Tracker SQL]](https://github.com/KelvinSousaDev/Projeto-Clima-SQL)**
+    * Pipeline de ingestão de dados meteorológicos 100% em nuvem via API.
+
+---
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/okelvinsousa)
