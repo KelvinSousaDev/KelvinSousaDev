@@ -29,4 +29,4 @@ Atualmente desenvolvendo agentes autônomos que veem, ouvem e analisam dados de 
 
 ---
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/okelvinsousa)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/okelvinsousa)
