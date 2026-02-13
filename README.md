@@ -22,7 +22,7 @@ Atualmente desenvolvendo agentes autônomos que veem, ouvem e analisam dados de 
     * *A "Joia da Coroa".* Uma assistente virtual que utiliza **Visão Computacional** para ler minha tela, conecta-se a um banco **PostgreSQL na nuvem** para monitorar preços e usa **LLMs locais** para tomar decisões.
     
 * **[[📉 Vigilante de Preços]](https://github.com/KelvinSousaDev/vigilante-de-precos)**
-    * Pipeline de extração de dados (Scraping) conectado a banco de dados em nuvem para análise histórica de preços de e-commerce.
+    * Pipeline ETL assíncrono e conteinerizado para inteligência de e-commerce. Utiliza Playwright para extração stealth (bypass de WAF) e PostgreSQL em nuvem para armazenamento histórico.
 
 * **[[☁️ Clima Tracker SQL]](https://github.com/KelvinSousaDev/Projeto-Clima-SQL)**
     * Pipeline de ingestão de dados meteorológicos 100% em nuvem via API.
